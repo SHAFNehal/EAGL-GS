@@ -6,3 +6,5 @@
 <li>Networkx</li>
 <li>Matplotlib</li>
 </ul>
+
+*The code was tested using Python 3.6 
