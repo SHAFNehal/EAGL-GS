@@ -7,6 +7,12 @@
 <li>Matplotlib</li>
 </ul>
 
+<p align="center">
+  <img src="/Images/Algorithm.png"  width="60%" height="60%">
+  
+  <span style="vertical-align: middle;">Figure: Proposed EAGL Algorithm for summarizing a directed probabilistic graphical model based an available dataset.</span>
+</p>
+
 ### Enter the following to reproduce the results:
 #### Setup 1: Single edge reduction (Method='True') 
 <ul>
