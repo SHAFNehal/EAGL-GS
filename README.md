@@ -1,8 +1,3 @@
-<snippet>
-  <content><![CDATA[
-# ${1:EAGL: Learning and Summarizing Graphical Models using Eigen Analysis of Graph Laplacian
-## Dependecies }
-
 # EAGL: Learning and Summarizing Graphical Models using Eigen Analysis of Graph Laplacian
 ## Dependecies 
 <ul>
@@ -32,9 +27,9 @@
 </ul>
 
 This will result in:
-`Number of Edges on the Updated DAG: 30
+<code>Number of Edges on the Updated DAG: 30
 
-Compression: 40.0 %`
+Compression: 40.0 %</code>
 
 <p align="center">
   <img src="/Images/Setup_1.png"  width="100%" height="100%">
@@ -60,8 +55,3 @@ Compression: 24.0 %
   
   <span style="vertical-align: middle;">Figure: Summarizing the Barabasi Albert Graph.</span>
 </p>
-
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
