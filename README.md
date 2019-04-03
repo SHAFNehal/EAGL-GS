@@ -27,9 +27,10 @@
 </ul>
 
 This will result in:
-<code>Number of Edges on the Updated DAG: 30
 
-Compression: 40.0 %</code>
+<code>Number of Edges on the Updated DAG: 30</code>
+
+<code>Compression: 40.0 %</code>
 
 <p align="center">
   <img src="/Images/Setup_1.png"  width="100%" height="100%">
@@ -47,8 +48,10 @@ Compression: 40.0 %</code>
 <li>Enter Cut-off Value: 0.005</li>
 </ul>
 This will result in:
-Number of Edges on the Updated DAG: 38
-Compression: 24.0 %
+
+<code>Number of Edges on the Updated DAG: 38</code>
+
+<code>Compression: 24.0 %</code>
 
 <p align="center">
   <img src="/Images/Setup_2.png"  width="100%" height="100%">
