@@ -1,13 +1,4 @@
 # EAGL: Learning and Summarizing Graphical Models using Eigen Analysis of Graph Laplacian
-## Dependecies 
-<ul>
-<li>Scipy</li>
-<li>Numpy</li>
-<li>Networkx</li>
-<li>Matplotlib</li>
-</ul>
-
-*The code was tested using Python 3.6
 
 ## Summarizing Graphical Models using Eigen Analysis of Graph Laplacian (Steps)
 <p align="center">
@@ -16,7 +7,11 @@
   <span style="vertical-align: middle;">Figure: Proposed EAGL Algorithm for summarizing a directed probabilistic graphical model based an available dataset.</span>
 </p>
 
-## Enter the following to reproduce the results:
+## Using the code:
+
+A Jupyter notebook named "<a href="https://github.com/SHAFNehal/EAGL-GS/blob/master/Example_GraphSummarization.ipynb">Example_GraphSummarization.ipynb</a>" is provided for step by step guide to use the "EAGL" library for summarizing graphs. For the using the code directly from python IDE please use the file "<a href="https://github.com/SHAFNehal/EAGL-GS/blob/master/Code/Example_GraphSummarization.py">Example_GraphSummarization.py</a>" provided in the "<a href="https://github.com/SHAFNehal/EAGL-GS/tree/master/Code"> Code </a>" folder. 
+
+## Enter the following when prompt to reproduce the results:
 ### Setup 1: Single edge reduction (Method='False') 
 <ul>
 <li>Enter if tree connection to be maintained (True or False): True</li>
@@ -58,3 +53,13 @@ This will result in:
   
   <span style="vertical-align: middle;">Figure: Summarizing the Barabasi Albert Graph.</span>
 </p>
+
+## Dependecies 
+<ul>
+<li>Scipy</li>
+<li>Numpy</li>
+<li>Networkx</li>
+<li>Matplotlib</li>
+</ul>
+
+*The code was tested using Python 3.6
