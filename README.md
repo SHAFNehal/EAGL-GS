@@ -45,7 +45,7 @@ This will result in:
 <li>Enter Traversing Start Node(0 to 9):0</li>
 <li>Enter Number of Iterations: 10</li>
 <li>Enter for which Eigenvalue (1st or 2nd) perform the calculation: 2</li>
-<li>Enter Cut-off Value: 0.005</li>
+<li>Enter Cut-off Value: 0.05</li>
 </ul>
 This will result in:
 
