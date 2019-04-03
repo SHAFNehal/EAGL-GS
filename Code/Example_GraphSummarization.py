@@ -24,8 +24,7 @@ os.environ['PYTHONHASHSEED']='0'
 import random as rn
 rn.seed(123)
 
-## Load Necessar Data (matlab Extraction)
-# Load Random Data
+# Create Random Graph
 # A. L. Barabási and R. Albert “Emergence of scaling in random networks”, Science 286, pp 509-512, 1999.
 G=nx.barabasi_albert_graph(10,5, seed=123)
 DAG=nx.to_numpy_array(G)
