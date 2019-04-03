@@ -11,6 +11,8 @@
 
 A Jupyter notebook named "<a href="https://github.com/SHAFNehal/EAGL-GS/blob/master/Example_GraphSummarization.ipynb">Example_GraphSummarization.ipynb</a>" is provided for step by step guide to use the "EAGL" library for summarizing graphs. For the using the code directly from python IDE please use the file "<a href="https://github.com/SHAFNehal/EAGL-GS/blob/master/Code/Example_GraphSummarization.py">Example_GraphSummarization.py</a>" provided in the "<a href="https://github.com/SHAFNehal/EAGL-GS/tree/master/Code"> Code </a>" folder. 
 
+An implementation of Graph Laplacian for Directed Graphs can be found <a href="https://github.com/SHAFNehal/DirectedGraphLaplacian" >here</a>. This was coded in Matlab. For a python implementation please check the NetworkX library.
+
 ## Enter the following when prompt to reproduce the results:
 ### Setup 1: Single edge reduction (Method='False') 
 <ul>
