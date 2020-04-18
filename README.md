@@ -2,7 +2,7 @@
 
 ## Summarizing Graphical Models using Eigen Analysis of Graph Laplacian (Steps)
 <p align="center">
-  <img src="/Images/Figure_1.png"  width="60%" height="60%">
+  <img src="/Images/Algorithm_Final.png"  width="60%" height="60%">
   
   <span style="vertical-align: middle;">Figure: Proposed EAGL Algorithm for summarizing a directed probabilistic graphical model based an available dataset.</span>
 </p>
